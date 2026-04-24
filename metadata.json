@@ -1,0 +1,6 @@
+{
+  "name": "AntiScammer - AI Protection",
+  "description": "Chrome Extension for real-time phishing and scam detection using Gemini 2.0 Flash, specialized in the Malaysian threat landscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
